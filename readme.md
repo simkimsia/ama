@@ -8,10 +8,6 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ---
 
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
----
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
@@ -25,3 +21,8 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
+
+### Me
+
+- [Website](https://simkimsia.com)
+- [What I'm doing now](https://simkimsia.com/now)
